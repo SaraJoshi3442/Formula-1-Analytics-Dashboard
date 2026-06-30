@@ -39,6 +39,3 @@ An interactive Power BI dashboard built to analyze Formula 1 racing data through
 - Data Visualization
 
 
-**Sara Joshi**
-
-Aspiring Data Analyst | Power BI Enthusiast | CSE (AIDS) Student
